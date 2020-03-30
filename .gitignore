@@ -24,6 +24,7 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+node_modules/
 
 # Sources et documentation non utiles pour la maintenance #
 ###########
